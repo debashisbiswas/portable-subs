@@ -1,0 +1,15 @@
+{
+  "name": "named-pipes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Debashis Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "mpv-ipc": "^0.1.3",
+    "ws": "^7.5.1"
+  }
+}
